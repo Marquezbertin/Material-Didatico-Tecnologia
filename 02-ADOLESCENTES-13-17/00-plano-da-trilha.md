@@ -74,7 +74,7 @@ mapa acima (aula que é indispensável).
 | Navegador | Chrome ou Firefox |
 | Editor | VS Code (o repositório `laboratorio-tech-social` sugere; ou o ID do Colab) |
 | Git | instalado no notebook (ou [GitHub Desktop](https://desktop.github.com/)) |
-| Conta GitHub | `github.com/signup` — **obrigatória na aula 07** |
+| Conta GitHub | [https://github.com/signup](https://github.com/signup) — **obrigatória na aula 07** |
 | Conta de IA | a escola define qual usar; ver `ia-para-iniciantes/01_ia_generativa/` |
 | Scratch | não é mais necessário (a trilha de 8–12 já cobriu) |
 
