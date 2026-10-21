@@ -61,12 +61,14 @@
 | 1 computador por aluno | Escola / parceria | Aulas 04, 05, 06, 07 |
 | Projetor | Escola | Slides do repositório |
 
-**Contas gratuitas que a escola precisa criar** (todas do próprio repositório `laboratorio-tech-social`):
-- Scratch — `scratch.mit.edu`
-- GitHub — `github.com/signup`
-- Google Colab — `colab.research.google.com`
+## 🔗 Links rápidos para a trilha
 
-**Nunca use e-mail real do aluno** para cadastro sem autorização da escola.
+| Recurso | Link | Uso |
+|---|---|---|
+| **Scratch** | [https://scratch.mit.edu/](https://scratch.mit.edu/) | Programação em blocos (A7) |
+| **Google Colab** | [https://colab.research.google.com/](https://colab.research.google.com/) | Opcional, para quem quiser avançar com Python |
+| **Laboratório Tech Social** | [https://marquezbertin.github.io/laboratorio-tech-social/](https://marquezbertin.github.io/laboratorio-tech-social/) | Jogos, quizzes, digitação, robótica e cidadania digital |
+| **GitHub** | [https://github.com/](https://github.com/) | Publicação do projeto final (com autorização) |
 
 ---
 
