@@ -34,7 +34,7 @@ para funcionar com **1 PC por 2 alunos** (papel → teclado).
 | 15 | **Projeto Final — parte 3** | todos | Testes + deploy |
 | 16 | **Showcase** | todos | Apresentação + publicação |
 
-**Plano de contingency:** se a escola só puder oferecer 8 aulas, use a marca ⭐ no
+**Plano de contingência:** se a escola só puder oferecer 8 aulas, use a marca ⭐ no
 mapa acima (aula que é indispensável).
 
 ---
