@@ -143,7 +143,7 @@ Os PDFs têm **links clicáveis**, diagramas vetoriais próprios, atividades com
 
 O site [`despertarqa.net`](https://despertarqa.net) apresenta o curso; as aulas acontecem no **Google Classroom** (gratuito), com uma turma por faixa etária — login individual, vídeos, podcasts, material e dúvidas.
 
-- [`08-SITE-ESCOLA/sala-de-aula.html`](08-SITE-ESCOLA/sala-de-aula.html) — página pronta para o Wix (3 turmas, links e contato), testada em celular.
+- [`08-SITE-ESCOLA/sala-de-aula.html`](08-SITE-ESCOLA/sala-de-aula.html) — página pronta para o Wix (3 turmas, links e contato), com layout validado em desktop, tablet e celular.
 - [`08-SITE-ESCOLA/README.md`](08-SITE-ESCOLA/README.md) — passo a passo: criar turmas, convites, vídeos privados, podcast, e-mail, publicação no Wix e proteção de menores.
 
 ---

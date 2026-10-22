@@ -195,7 +195,45 @@ Base: [segurança para crianças](https://github.com/Marquezbertin/laboratorio-t
 
 ---
 
-## 12. Manutenção mensal
+## 12. Modelos de mensagem (copiar e colar)
+
+**Convite para o aluno (13+)**
+
+```text
+Oi, [NOME]! Sua turma do Despertar QA já está no ar. 🎓
+
+Entre pelo link: [LINK DO CONVITE]
+Use o e-mail que a escola cadastrou. Se pedir código, é: [CÓDIGO DA TURMA]
+
+Lá você encontra o vídeo da aula, o material em PDF e o espaço para tirar dúvidas.
+Qualquer problema, responda esta mensagem.
+```
+
+**Comunicado aos responsáveis (8–12)**
+
+```text
+Olá, responsáveis pelo(a) [NOME]!
+
+As aulas do Despertar QA começam em [DATA]. A sala on-line é fechada, por convite, e usamos o Google Classroom apenas para vídeos, materiais e devolutivas.
+
+• A conta de [NOME] foi criada pela escola: [E-MAIL]
+• O acesso é individual; não é necessário publicar nada nas redes
+• Para dúvidas e ausências, fale com [PROFESSOR] pelo e-mail [E-MAIL]
+
+O material também pode ser impresso e usado sem internet. Qualquer dúvida sobre dados ou privacidade, estou à disposição.
+```
+
+**Lembrete de primeira aula**
+
+```text
+Lembrete: a primeira aula da turma [TURMA] é [DATA], às [HORA].
+Antes de entrar, assista ao vídeo de boas-vindas no Classroom e separe o livro em PDF.
+Dúvidas: responda aqui ou use o comentário particular na atividade.
+```
+
+---
+
+## 13. Manutenção mensal
 
 | Tarefa | Tempo |
 |---|---|
