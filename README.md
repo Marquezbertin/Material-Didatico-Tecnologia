@@ -30,6 +30,7 @@ Os PDFs têm **links clicáveis**, diagramas vetoriais próprios, atividades com
 | [`05-AVALIACAO/`](05-AVALIACAO/) | Rubricas (4 níveis), quizzes formativos, certificados |
 | [`06-RECURSOS-LIVRES/`](06-RECURSOS-LIVRES/) | Ferramentas gratuitas, licenças e atribuições |
 | [`07-LIVROS-PDF-PARA-ALUNO/`](07-LIVROS-PDF-PARA-ALUNO/) | Os três livros em PDF |
+| [`08-SITE-ESCOLA/`](08-SITE-ESCOLA/) | Página da sala de aula (Wix) + guia de montagem no Google Classroom |
 
 ---
 
@@ -135,6 +136,15 @@ Os PDFs têm **links clicáveis**, diagramas vetoriais próprios, atividades com
 | **Laboratório Tech Social** | [https://marquezbertin.github.io/laboratorio-tech-social/](https://marquezbertin.github.io/laboratorio-tech-social/) | Jogos, simuladores, quizzes, caça-bugs e robótica |
 | **QA_RUN** | [https://marquezbertin.github.io/QA_RUN/](https://marquezbertin.github.io/QA_RUN/) | 71 jogos para aprender QA e testes |
 | **Perfil GitHub** | [https://github.com/Marquezbertin](https://github.com/Marquezbertin) | Todos os repositórios usados neste material |
+
+---
+
+## 🏫 Sala de aula on-line (Wix + Google Classroom)
+
+O site [`despertarqa.net`](https://despertarqa.net) apresenta o curso; as aulas acontecem no **Google Classroom** (gratuito), com uma turma por faixa etária — login individual, vídeos, podcasts, material e dúvidas.
+
+- [`08-SITE-ESCOLA/sala-de-aula.html`](08-SITE-ESCOLA/sala-de-aula.html) — página pronta para o Wix (3 turmas, links e contato), testada em celular.
+- [`08-SITE-ESCOLA/README.md`](08-SITE-ESCOLA/README.md) — passo a passo: criar turmas, convites, vídeos privados, podcast, e-mail, publicação no Wix e proteção de menores.
 
 ---
 
